@@ -1,4 +1,4 @@
-💻 Web Designer safado sem futuro ✨ | Faço botão bonito na internet 🚀 | 
+Programador Chorume Orientado a Gambiarra 💻 Web Designer safado sem futuro ✨ | Faço botão bonito na internet 🚀 | 
 Botão bonito faz as pessoa clicar mais ! 🌌 As empresa vende mais . 
 | Stack de cansado  | Web Design | Product Designe
 
