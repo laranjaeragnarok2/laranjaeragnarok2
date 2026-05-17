@@ -5,6 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@horyu.multimedia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/horyu.multimedia/) 
 
 Programador Chorume Orientado a Gambiarra 💻 | Web Designer sem futuro ✨ | Faço botões bonitos na internet 🚀
-Botões bonitos fazem as pessoas clicarem mais! 🌌 As empresas que tem botões bonitos vendem mais.
+Botões bonitos fazem as pessoas clicarem mais! 🌌 As empresas que tem botões bonitos vendem mais. |
 Stack: Web Design | Product Design | SQL essas coisa  
 
