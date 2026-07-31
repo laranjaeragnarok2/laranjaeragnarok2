@@ -33,29 +33,10 @@
 
 ### 👨‍💻 Quem é esse tal de Horyu?
 
-- ☕ **Movido a:** Café forte, boas playlists e a satisfação de ver o `build` passar de primeira.
-- 🎨 **Visão:** "Se o código funciona mas a interface é feia, eu refaço. Se a interface é linda mas o código é uma gambiarra, eu arrumo."
-- 🛠️ **O que eu faço:** Construo projetos web completos do zero (do banco de dados até a animação de entrada), crio identidades visuais e edito vídeos.
+- ☕ **Movido a:** Café forte, boas playlists e a satisfação de ver o `build` passar de primeira. Sem ter que vender a alma pro capeta
+- 🎨 **Visão:** "Se o código funciona mas a interface é feia, eu refaço. Se a interface é linda mas o código é uma gambiarra, eu não mexe."
+- 🛠️ **O que eu faço:** Tiro do cu projetos web completos do zero (do banco de dados até a animação de entrada), crio identidades visuais. 
 - 🎯 **Habilidade especial:** Achar o erro de sintaxe depois de passar 1 hora xingando o compilador (que no final estava certo).
-
----
-
-### 🚀 Projetos que Valem a Pena Ver
-
-<details open>
-  <summary><b>🔥 Clique para ver a lista de projetos em destaque</b></summary>
-  <br/>
-
-| Projeto | O que faz? | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 🌿 **HoryusPortf** | Meu portfólio oficial. Mostra quem eu sou, o que sei fazer e onde me encontrar. | `Next.js` `TS` `Tailwind` | [🌐 Visitar](https://horyu-arthur.vercel.app) |
-| 🏛️ **Ponte de Pedra** | Site de mobilização para preservação histórica e geológica em Goiás. | `Next.js` `TS` `Tailwind` | [🌐 Visitar](https://ponte-de-pedra.vercel.app) |
-| 🚴 **Ciclismo Santa Helena** | Plataforma para a galera do pedal e comunidade esportiva. | `HTML5` `JS` `CSS3` | [🌐 Visitar](https://ciclismo-stahelena.vercel.app) |
-| 🤖 **PicPack-SellerBot** | Bot de vendas automático no Discord com pagamento via Mercado Pago. | `Node.js` `Discord.js` | [💻 GitHub](https://github.com/laranjaeragnarok2/PicPack-SellerBot) |
-| 📻 **Radio-CriAtiva** | Protótipo de rádio web descentralizada para criadores de conteúdo. | `Web Audio` `JS` | [💻 GitHub](https://github.com/laranjaeragnarok2/Radio-CriAtiva) |
-| 📸 **João Photos** | Galeria fotográfica ultra fluida feita sob medida para fotógrafos. | `React` `Tailwind` | [🌐 Visitar](https://joao-photos.vercel.app) |
-
-</details>
 
 ---
 
@@ -113,19 +94,6 @@
 ```
 
 ---
-
-### 💬 Manda um salve!
-
-Tem uma ideia de projeto, precisa de uma ajuda com desenvolvimento ou quer trocar uma ideia sobre audiovisual?
-
-<p align="center">
-  <a href="https://horyu-arthur.vercel.app/#diagnostico">
-    <img src="https://img.shields.io/badge/🌱_Cultivar_meu_Projeto-10B981?style=for-the-badge&logoColor=white" alt="Diagnostico" />
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-horyu-128933363/">
-    <img src="https://img.shields.io/badge/💬_Chamar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 <div align="center">
   <sub>Feito com 💚 e muito café por Horyu Arthur</sub>
