@@ -1,104 +1,132 @@
 <div align="center">
 
-```
- _   _  ___  ____  驰 _   _   ___  ____ _____ _   _ _   _ ____  
-| | | |/ _ \|  _ \| | | |  / _ \|  _ \_   _| | | | | | |  _ \ 
-| |_| | | | | |_) | |_| | | |_| | |_) || | | |_| | | | | |_) |
-|  _  | |_| |  _ <|  _  | |  _  |  _ < | | |  _  | |_| |  _ < 
-|_| |_|\___/|_| \_\_| |_| |_| |_|_| \_\|_| |_| |_|\___/|_| \_\
-```
+  <!-- Header Animado com Cores Vibrantes -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=34D399&center=true&vCenter=true&width=650&height=60&lines=Fala+dev!+Eu+sou+o+Horyu+Arthur+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%2B+Designer+%2B+Audiovisual;Transformando+caf%C3%A9+em+c%C3%B3digo+funcional;Tecnologia+com+alma.+Estrat%C3%A9gia+com+ra%C3%ADzes." alt="Typing SVG Animado" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=650&height=40&lines=HORYU+ARTHUR;TECNOLOGIA+COM+ALMA.;ESTRATEGIA+COM+RAIZES.;FULL+STACK+%7C+DESIGN+%7C+AUDIOVISUAL" alt="Horyu Arthur Retro Header" />
+  <h3>✨ Desenvolvedor Full Stack • Designer Estratégico • Artista Audiovisual ✨</h3>
 
   <p align="center">
-    <strong>Estrategista & Desenvolvedor Full Stack • Designer • Artista Audiovisual</strong>
+    <i>"Faço código funcionar, interfaces brilharem e vídeos ficarem de cinema. Se nada der certo, viro cozinheiro."</i>
   </p>
 
-  <p align="center">
-    <i>"Construindo ecossistemas digitais que respiram, evoluem e geram impacto autêntico."</i>
-  </p>
-
+  <!-- Badges Coloridas e Animadas -->
   <p align="center">
     <a href="https://horyu-arthur.vercel.app">
-      <img src="https://img.shields.io/badge/PORTFOLIO-horyu--arthur.vercel.app-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Meu_Portfólio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/arthur-horyu-128933363/">
-      <img src="https://img.shields.io/badge/LINKEDIN-Arthur_Horyu-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/horyu.multimedia/">
-      <img src="https://img.shields.io/badge/INSTAGRAM-@horyu.multimedia-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:1horyuarthur@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-1horyuarthur@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Mandar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
 </div>
 
----
-
-### // SOBRE MIM
-
-Unindo a precisão da Engenharia de Software, o design estratégico e a produção audiovisual, desenvolvo soluções digitais completas e sustentáveis.
-
-- Filosofia: Acredito que a tecnologia deve ser invisível e orgânica, permitindo que marcas e negócios evoluam sem entraves técnicos.
-- Foco Atual: Ecossistemas Web Full Stack (Next.js, Node.js, Supabase), sistemas de automação, bots e plataformas culturais digitais.
-- Localização: Brasil
-- Website: [horyu-arthur.vercel.app](https://horyu-arthur.vercel.app)
+<br />
 
 ---
 
-### // PROJETOS EM DESTAQUE
+### 👨‍💻 Quem é esse tal de Horyu?
 
-| Projeto | Descrição | Tecnologias / Link |
-| :--- | :--- | :--- |
-| **[HoryusPortf](https://github.com/laranjaeragnarok2/HoryusPortf)** | Portfólio web interativo com apresentação de serviços e arquitetura de software. | Next.js, TypeScript, TailwindCSS • [Demo](https://horyu-arthur.vercel.app) |
-| **[Ponte de Pedra](https://github.com/laranjaeragnarok2/ponte-de-pedra)** | Plataforma de mobilização e preservação de patrimônio geológico e cultural de Goiás. | Next.js, TypeScript, TailwindCSS • [Demo](https://ponte-de-pedra.vercel.app) |
-| **[Ciclismo Santa Helena](https://github.com/laranjaeragnarok2/ciclismo-stahelena)** | Portal comunitário e plataforma para o projeto Ciclismo Santa Helena. | HTML5, JavaScript, CSS3 • [Demo](https://ciclismo-stahelena.vercel.app) |
-| **[PicPack-SellerBot](https://github.com/laranjaeragnarok2/PicPack-SellerBot)** | Bot de automação de vendas via Discord com Dashboard, Mercado Pago e e-mail. | Node.js, TypeScript, Discord.js |
-| **[Radio-CriAtiva](https://github.com/laranjaeragnarok2/Radio-CriAtiva)** | Protótipo de rádio descentralizada e ecossistema áudio-criativo. | HTML5, JavaScript, Web Audio API |
-| **[João Photos](https://github.com/laranjaeragnarok2/joao-photos)** | Portfólio fotográfico profissional com galeria responsiva. | React, JavaScript, TailwindCSS • [Demo](https://joao-photos.vercel.app) |
+- ☕ **Movido a:** Café forte, boas playlists e a satisfação de ver o `build` passar de primeira.
+- 🎨 **Visão:** "Se o código funciona mas a interface é feia, eu refaço. Se a interface é linda mas o código é uma gambiarra, eu arrumo."
+- 🛠️ **O que eu faço:** Construo projetos web completos do zero (do banco de dados até a animação de entrada), crio identidades visuais e edito vídeos.
+- 🎯 **Habilidade especial:** Achar o erro de sintaxe depois de passar 1 hora xingando o compilador (que no final estava certo).
 
 ---
 
-### // TECH STACK
+### 🚀 Projetos que Valem a Pena Ver
 
-#### Frontend & UI
-`HTML5` `CSS3` `JavaScript ES6+` `TypeScript` `React` `Next.js` `Vue.js` `TailwindCSS` `Sass` `Shadcn/UI`
+<details open>
+  <summary><b>🔥 Clique para ver a lista de projetos em destaque</b></summary>
+  <br/>
 
-#### Backend & Bancos de Dados
-`Node.js` `Express.js` `NestJS` `PHP` `Java` `PostgreSQL` `MySQL` `Supabase` `Firebase` `MongoDB`
+| Projeto | O que faz? | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| 🌿 **HoryusPortf** | Meu portfólio oficial. Mostra quem eu sou, o que sei fazer e onde me encontrar. | `Next.js` `TS` `Tailwind` | [🌐 Visitar](https://horyu-arthur.vercel.app) |
+| 🏛️ **Ponte de Pedra** | Site de mobilização para preservação histórica e geológica em Goiás. | `Next.js` `TS` `Tailwind` | [🌐 Visitar](https://ponte-de-pedra.vercel.app) |
+| 🚴 **Ciclismo Santa Helena** | Plataforma para a galera do pedal e comunidade esportiva. | `HTML5` `JS` `CSS3` | [🌐 Visitar](https://ciclismo-stahelena.vercel.app) |
+| 🤖 **PicPack-SellerBot** | Bot de vendas automático no Discord com pagamento via Mercado Pago. | `Node.js` `Discord.js` | [💻 GitHub](https://github.com/laranjaeragnarok2/PicPack-SellerBot) |
+| 📻 **Radio-CriAtiva** | Protótipo de rádio web descentralizada para criadores de conteúdo. | `Web Audio` `JS` | [💻 GitHub](https://github.com/laranjaeragnarok2/Radio-CriAtiva) |
+| 📸 **João Photos** | Galeria fotográfica ultra fluida feita sob medida para fotógrafos. | `React` `Tailwind` | [🌐 Visitar](https://joao-photos.vercel.app) |
 
-#### Cloud, DevOps & Mobile
-`Git` `GitHub Actions` `Docker` `Vercel` `AWS` `Kotlin` `React Native`
-
-#### Design & Produção Audiovisual
-`Figma` `Adobe Photoshop` `Adobe Premiere` `CapCut` `OBS Studio` `Scrum` `Produção Cultural`
+</details>
 
 ---
 
-### // ESTATÍSTICAS
+### 🧰 Minha Caixa de Ferramentas Colorida
+
+*(Disclaimer: umas ferramentas estão mais afiadas que outras, mas a gente domina o jogo! 😉)*
+
+#### 💻 **Frontend & Estilo**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+#### ⚙️ **Backend & Bancos de Dados**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+#### 🎬 **Design, Mídia & Criação**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Estatísticas Rápidas
 
 <div align="center">
-
-<img src="https://img.shields.io/github/repos/public/laranjaeragnarok2?style=flat-square&label=Reposit%C3%B3rios%20P%C3%Bablicos&color=10B981&logo=github" alt="Repositórios" />
-<img src="https://img.shields.io/github/followers/laranjaeragnarok2?style=flat-square&label=Seguidores&color=10B981&logo=github" alt="Seguidores" />
-<img src="https://img.shields.io/github/stars/laranjaeragnarok2?style=flat-square&label=Estrelas%20Recebidas&color=10B981&logo=github" alt="Estrelas" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/10B981/laranjaeragnarok2" alt="Gráfico de Contribuições GitHub" width="100%" />
-
+  <!-- Badge Simples e Colorida de Sequência -->
+  <img src="https://img.shields.io/badge/STATUS-Em_constante_evolução_🌱-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCO-Sistemas_Web_%26_Design_💡-6366F1?style=for-the-badge" />
 </div>
 
+<br />
+
+```gcode
+  +-------------------------------------------------------------+
+  |  "Existem 10 tipos de pessoas no mundo:                    |
+  |   As que entendem binário e as que têm bom gosto visual."   |
+  +-------------------------------------------------------------+
+```
+
 ---
 
-### // CONTATO
+### 💬 Manda um salve!
 
-- Website: [horyu-arthur.vercel.app/#diagnostico](https://horyu-arthur.vercel.app/#diagnostico)
-- E-mail: [1horyuarthur@gmail.com](mailto:1horyuarthur@gmail.com)
-- LinkedIn: [linkedin.com/in/arthur-horyu-128933363/](https://www.linkedin.com/in/arthur-horyu-128933363/)
+Tem uma ideia de projeto, precisa de uma ajuda com desenvolvimento ou quer trocar uma ideia sobre audiovisual?
+
+<p align="center">
+  <a href="https://horyu-arthur.vercel.app/#diagnostico">
+    <img src="https://img.shields.io/badge/🌱_Cultivar_meu_Projeto-10B981?style=for-the-badge&logoColor=white" alt="Diagnostico" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-horyu-128933363/">
+    <img src="https://img.shields.io/badge/💬_Chamar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <div align="center">
-  <sub>ORGANIC DIGITAL DESIGN — EST. 2026 — HORYU ARTHUR</sub>
+  <sub>Feito com 💚 e muito café por Horyu Arthur</sub>
 </div>
