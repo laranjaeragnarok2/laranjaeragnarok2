@@ -38,11 +38,11 @@ Especializado no desenvolvimento de sistemas web de alta performance, aplicativo
 
 | Projeto | Descrição & Recursos | Link |
 | :--- | :--- | :---: |
-| **🌐 Portfólio Pessoal** | Meu portfólio oficial em Next.js com apresentação de projetos, diagnóstico e cases. | [**Ver Site ➔**](https://horyu-arthur.vercel.app/) |
-| **🚨 Brigadas do Cerrado** | Plataforma comunitária de alertas em tempo real e mapa de focos de incêndio com satélite CENSIPAM/GIS. | [**Ver Repo ➔**](https://github.com/laranjaeragnarok2/brigadas-cerrado) |
-| **🏔️ KCHU — Ecoturismo** | Aplicativo e plataforma web para mapeamento, rotas e avaliações de cachoeiras. | [**Ver Repo ➔**](https://github.com/laranjaeragnarok2/KCHU) |
-| **📦 Delivery Multi-estabelecimento** | Solução open-source em GoLang + React Native Expo com Split Pix e painel Kanban. | [**Ver Repo ➔**](https://github.com/laranjaeragnarok2/appdelivery) |
-| **⭐ Coleção Curada de Stars** | Acervo organizado em 8 categorias com mais de 265 ferramentas, IAs e bibliotecas. | [**Ver Acervo ➔**](https://github.com/laranjaeragnarok2/github-stars-collection) |
+| **🌐 Portfólio Pessoal** | Meu portfólio oficial em Next.js com apresentação de projetos, diagnóstico e cases. | [➔](https://horyu-arthur.vercel.app/) |
+| **🚨 Brigadas do Cerrado** | Plataforma comunitária de alertas em tempo real e mapa de focos de incêndio com satélite CENSIPAM/GIS. | [➔](https://github.com/laranjaeragnarok2/brigadas-cerrado) |
+| **🏔️ KCHU — Ecoturismo** | Aplicativo e plataforma web para mapeamento, rotas e avaliações de cachoeiras. | [➔](https://github.com/laranjaeragnarok2/KCHU) |
+| **📦 Delivery Multi-estabelecimento** | Solução open-source em GoLang + React Native Expo com Split Pix e painel Kanban. | [➔](https://github.com/laranjaeragnarok2/appdelivery) |
+| **⭐ Coleção Curada de Stars** | Acervo organizado em 8 categorias com mais de 265 ferramentas, IAs e bibliotecas. | [➔](https://github.com/laranjaeragnarok2/github-stars-collection) |
 
 ---
 
